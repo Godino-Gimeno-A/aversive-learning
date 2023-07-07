@@ -1,5 +1,5 @@
 This repository contains several scripts with the code developed to program Zantiks AD units in aversive learning experiments in zebrafish
-Publication: Obesity impairs short term memory but does not affect long term memory or anxiety like behaviour in zebrafish
+Publication: Obesity impairs cognitive function with no effects on anxiety-like behaviour in zebrafish
 Authors: Alejandra Godino-Gimeno, Per-Ove Thörnqvist, Mauro Chivite, Jesús M. Míguez, Svante Winberg and José Miguel Cerdá-Reverter
 Short-term memory test scripts files:
   av_check --> was used in units where the fish conditioning pattern was 'check'
